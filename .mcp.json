@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bubblav": {
+      "type": "http",
+      "url": "https://www.bubblav.com/mcp",
+      "note": "Official BubblaV remote MCP server. OAuth on first tool call. Scopes: mcp:read, mcp:tools:execute. For API-key clients (headless), use https://www.bubblav.com/api/mcp with an X-API-Key header — see https://docs.bubblav.com/developer-guide/mcp-server."
+    }
+  }
+}
